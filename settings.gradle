@@ -1,0 +1,2 @@
+rootProject.name='Language Phrases'
+include ':app'
